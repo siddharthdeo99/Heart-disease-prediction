@@ -1,8 +1,6 @@
 # Machine Learning Heart Disease Prediction
-<b>AWS</b> - http://ec2-3-129-176-183.us-east-2.compute.amazonaws.com:8080/ <br>
-<b>Heroku</b> - https://predicting-heart-disease.herokuapp.com/ <br>
 
-<img src="https://github.com/Tejas-TA/ML-Heart-Disease-Prediction/blob/main/Heart%20GIF.gif" width = "100%" height="100%">
+
 
 <h2>Heart Disease app predicts whether a person has a heart condition or not based on age,	sex,	cp,	trestbps,	chol,	fbs,	restecg,	thalach,	exang,	oldpeak,	slope,	ca, and	thal</h2>
 
@@ -36,17 +34,11 @@
 6. Predicted models on test dataset<br>
 7. Model Evaluation<br>
 8. Exported the model<br>
-9. Created an EC2 instance in AWS running Ubuntu AMI and moved all the code to AWS cloud server<br>
-10. App running successfully in AWS and Heroku<br>
-11. Accuracies and Confusion matrices as below<br>
+9. Accuracies and Confusion matrices as below<br>
 
 
 ![image](https://user-images.githubusercontent.com/13360641/111072795-290bcc80-8502-11eb-8074-d72eab648850.png)
 
 ![image](https://user-images.githubusercontent.com/13360641/111072851-6b350e00-8502-11eb-85f7-215d9acc71d5.png)
 
-<hr>
 
-Blogs - https://tejasta.medium.com/ <br>
-LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
-Email - tejasta@gmail.com <hr>
